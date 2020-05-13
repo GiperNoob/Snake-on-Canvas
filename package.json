@@ -1,0 +1,26 @@
+{
+  "name": "Snake-on-Canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiperNoob/Snake-on-Canvas.git"
+  },
+  "keywords": [],
+  "author": "Nicolai Pribitkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiperNoob/Snake-on-Canvas/issues"
+  },
+  "homepage": "https://github.com/GiperNoob/Snake-on-Canvas#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
